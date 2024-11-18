@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CaptainCrunch/1.0.0": {
+        "runtime": {
+          "CaptainCrunch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaptainCrunch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

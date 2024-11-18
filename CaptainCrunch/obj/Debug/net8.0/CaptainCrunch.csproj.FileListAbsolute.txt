@@ -1,0 +1,14 @@
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\bin\Debug\net8.0\CaptainCrunch.exe
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\bin\Debug\net8.0\CaptainCrunch.deps.json
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\bin\Debug\net8.0\CaptainCrunch.runtimeconfig.json
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\bin\Debug\net8.0\CaptainCrunch.dll
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\bin\Debug\net8.0\CaptainCrunch.pdb
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\obj\Debug\net8.0\CaptainCrunch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\obj\Debug\net8.0\CaptainCrunch.AssemblyInfoInputs.cache
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\obj\Debug\net8.0\CaptainCrunch.AssemblyInfo.cs
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\obj\Debug\net8.0\CaptainCrunch.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\obj\Debug\net8.0\CaptainCrunch.dll
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\obj\Debug\net8.0\refint\CaptainCrunch.dll
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\obj\Debug\net8.0\CaptainCrunch.pdb
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\obj\Debug\net8.0\CaptainCrunch.genruntimeconfig.cache
+C:\Users\jonathan.bartolo\Documents\CaptainCrunch\CaptainCrunch\obj\Debug\net8.0\ref\CaptainCrunch.dll
